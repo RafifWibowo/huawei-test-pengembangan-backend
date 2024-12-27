@@ -6,7 +6,7 @@
    Use Git to clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/RafifWibowo/todo-rest-api.git
+git clone https://github.com/RafifWibowo/huawei-test-pengembangan-backend
 ```
 
 2. **Install Dependencies:**
