@@ -13,7 +13,7 @@ git clone https://github.com/RafifWibowo/huawei-test-pengembangan-backend
    Navigate to the project directory and install the required dependencies using npm:
 
 ```bash
-cd todo-rest-api
+cd huawei-test-pengembangan-backend
 npm i
 ```
 
